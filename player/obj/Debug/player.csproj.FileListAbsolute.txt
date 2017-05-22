@@ -1,0 +1,12 @@
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\bin\Debug\player.exe.config
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\bin\Debug\player.exe
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\bin\Debug\player.pdb
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.Form_MusicList.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.Form_Player.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.Form_Jukebox.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.Form_Main.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.Properties.Resources.resources
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.csproj.GenerateResource.Cache
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.exe
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.pdb
+C:\Users\stdlib\documents\visual studio 2015\Projects\player\player\obj\Debug\player.csprojResolveAssemblyReference.cache
